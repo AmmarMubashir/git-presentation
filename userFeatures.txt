@@ -7,4 +7,6 @@ Login Feature Added.
 
 Login with Google Added.
 
+Login with Github Added
+
 
